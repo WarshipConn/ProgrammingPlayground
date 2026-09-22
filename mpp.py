@@ -1,4 +1,5 @@
 import random
+# list of elements to be mapped to one another
 items = ["A", "B", "C", "D", "E"]
 
 # stores derangements in a map x -> D_x
